@@ -135,7 +135,7 @@ staff_id) VALUES
 (19, 19, '11-26-2024', 7455.8, 'Cash', 3),
 (20, 20, '11-29-2024', 6280.15, 'Cash', 5);
 -- Insert into employees
-INSERT INTO staff (staff_id, first_name, last_name, position, contact_info) VALUES
+INSERT INTO staffs (staff_id, first_name, last_name, position, contact_info) VALUES
 (1, 'Dallas', 'Illston', 'Manager', '09123456789'),
 (2, 'Oona', 'Le Brom', 'Accounting', '09234567890'),
 (3, 'Shelley', 'Igoe', 'Fleet Maintenance Coordinator', '09345678901'),
